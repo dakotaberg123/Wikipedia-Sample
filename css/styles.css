@@ -1,1 +1,19 @@
-/* Stylesheet */
+/* 
+Color Palette:
+#567EBB Primary: blue jay accent
+#606D80 Secondary: blue jay grey
+#DCE0E6 Tertiary: blue jay white
+*/
+
+body {
+	background: url("../img/tweed.png");
+	font-family: 'Voltaire', sans-serif;	
+}
+
+header {
+	
+}
+
+nav {
+	
+}	
