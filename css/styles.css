@@ -10,9 +10,26 @@ body {
 	font-family: 'Voltaire', sans-serif;	
 }
 
+
+h1 {
+	color: #567EBB;
+}
+
+
+h2 {
+	color: #567EBB;
+}
+
+
+p {
+	color: #606D80;
+}
+
+
 header {
 	
 }
+
 
 nav {
 	
